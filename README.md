@@ -1,4 +1,5 @@
-##Estudiante: Jair Mendez Cuenca
+## Estudiante: Jair Mendez Cuenca
+
 # Mis Habilidades en Programacion
 Manejo de programación estructurada y orientada a objetos.
 Conocimientos en bases de datos relacionales (creación de tablas, relaciones, procedimientos y funciones almacenadas).
@@ -26,5 +27,6 @@ Desarrollo académico en SENATI (4to ciclo, Ingeniería de Software con IA).
 Prácticas y proyectos académicos en:
 Bases de datos (Oracle LiveSQL).
 Participación en tareas de análisis y comparación de metodologías de desarrollo de software.
+
 
 
